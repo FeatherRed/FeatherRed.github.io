@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Sijie Ma（马思捷）. I am now pursuring a Bachelor's Degree in CS at SCUT
-
+<p style="color: #3c4858; font-family: Roboto, 宋体; font-size: 12.0pt; font-weight: 400; vertical-align: baseline;">
+  My name is Sijie Ma（马思捷）. I am now pursuing a Bachelor's Degree in CS at SCUT.
+</p>
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
