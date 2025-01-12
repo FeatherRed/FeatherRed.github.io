@@ -14,10 +14,15 @@ h6,
 em,
 div,
 li,
-span,
+span{
+  font-family: math;
+  color: var(--global-text-color);
+}
+
 strong {
   font-family: math;
   color: var(--global-text-color);
+  font-weight: bold;
 }
 
 hr {
