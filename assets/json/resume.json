@@ -24,7 +24,7 @@
   "education": [
     {
       "institution": "South China University of Technology, Guangzhou, Guangdong, China",
-      "location": "Guangzhou, Guangdong, China",
+      "location": "Guangzhou, China",
       "url": "https://www.scut.edu.cn/",
       "area": "",
       "studyType": "Undergraduate",
@@ -68,7 +68,7 @@
     }
   ],
 
-  "Scholarships": [
+  "scholarships": [
     {
       "title": "National Scholarship",
       "date": "2024-12-27",
