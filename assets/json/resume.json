@@ -36,11 +36,19 @@
   ],
   "awards": [
     {
-      "title": "Second Prize in the 2023 CUMCM (National Level)",
-      "date": "2023-11-04",
+      "title": "Second Prize in the 2024 CUMCM (National Level)",
+      "date": "2024-10-05",
       "awarder": "China Society for Industrial and Applied Mathematics",
       "url": "",
-      "summary": "Awarded the second prize in recognition of outstanding performance in the 2023 CUMCM, a prestigious competition in mathematical modeling and problem-solving."
+      "summary": "Awarded the second prize for outstanding performance in the 2024 CUMCM, a leading competition in mathematical modeling and applied problem-solving."
+    },
+
+    {
+      "title": "First Prize in the 2024 'ShenZhen Cup' Mathematical Modeling Challenge Final",
+      "date": "2024-08-26",
+      "awarder": "China Society for Industrial and Applied Mathematics",
+      "url": "http://www.m2ct.org/view-page.jsp?editId=8&uri=0B00311&gobackUrl=modular-list.jsp&pageType=xwdt&menuType=",
+      "summary": "Participated in the final defense at Shenzhen MSU-BIT University(SMBU) and won the first prize for the competition topic."
     },
 
     {
@@ -52,19 +60,11 @@
     },
     
     {
-      "title": "First Prize in the 2024 'ShenZhen Cup' Mathematical Modeling Challenge Final",
-      "date": "2024-08-26",
-      "awarder": "China Society for Industrial and Applied Mathematics",
-      "url": "http://www.m2ct.org/view-page.jsp?editId=8&uri=0B00311&gobackUrl=modular-list.jsp&pageType=xwdt&menuType=",
-      "summary": "Participated in the final defense at Shenzhen MSU-BIT University(SMBU) and won the first prize for the competition topic."
-    },
-
-    {
-      "title": "Second Prize in the 2024 CUMCM (National Level)",
-      "date": "2024-10-05",
+      "title": "Second Prize in the 2023 CUMCM (National Level)",
+      "date": "2023-11-04",
       "awarder": "China Society for Industrial and Applied Mathematics",
       "url": "",
-      "summary": "Awarded the second prize for outstanding performance in the 2024 CUMCM, a leading competition in mathematical modeling and applied problem-solving."
+      "summary": "Awarded the second prize in recognition of outstanding performance in the 2023 CUMCM, a prestigious competition in mathematical modeling and problem-solving."
     }
   ],
 
