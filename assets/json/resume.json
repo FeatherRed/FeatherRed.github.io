@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sijie Ma",
+    "label": "Junior",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "1328181376@qq.com",
+    "url": "https://github.com/FeatherRed",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Guangzhou",
+      "countryCode": "CN",
+      "province": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -60,11 +59,35 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Second Prize in the 2023 CUMCM (National Level)",
+      "date": "2023-11-04",
+      "awarder": "China Society for Industrial and Applied Mathematics",
+      "url": "",
+      "summary": "Awarded the second prize in recognition of outstanding performance in the 2023 CUMCM, a prestigious competition in mathematical modeling and problem-solving."
+    },
+
+    {
+      "title": "First Prize in the 2023 APMCM",
+      "date": "2024-01-04",
+      "awarder": "Beijing Society of Image and Graphics",
+      "url": "",
+      "summary": "Awarded the first prize for excellence in mathematical modeling in the APMCM, an esteemed competition in the Asia-Pacific region focused on mathematical problem-solving."
+    },
+    
+    {
+      "title": "First Prize in the 2024 'ShenZhen Cup' Mathematical Modeling Challenge Final",
+      "date": "2024-08-26",
+      "awarder": "China Society for Industrial and Applied Mathematics",
+      "url": "http://www.m2ct.org/view-page.jsp?editId=8&uri=0B00311&gobackUrl=modular-list.jsp&pageType=xwdt&menuType=",
+      "summary": "Participated in the final defense at Shenzhen MSU-BIT University(SMBU) and won the first prize for the competition topic."
+    },
+
+    {
+      "title": "Second Prize in the 2024 CUMCM (National Level)",
+      "date": "2024-10-05",
+      "awarder": "China Society for Industrial and Applied Mathematics",
+      "url": "",
+      "summary": "Awarded the second prize for outstanding performance in the 2024 CUMCM, a leading competition in mathematical modeling and applied problem-solving."
     }
   ],
   "certificates": [
@@ -151,7 +174,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
