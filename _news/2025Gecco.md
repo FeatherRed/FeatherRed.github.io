@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper has been accepted to GECCO 2025—stay tuned for details! 🚀
+🎉 Our paper has been accepted to GECCO 2025! 🚀
