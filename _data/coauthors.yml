@@ -32,3 +32,23 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Hongshu":
+  - firstname: ["Guo", "G."]
+    url: https://orcid.org/0000-0001-8063-8984
+
+"Zechuan":
+  - firstname: ["Huang", "H."]
+    url: https://orcid.org/0009-0000-3668-4481
+
+"Yuzhi":
+  - firstname: ["Hu", "H."]
+    url: https://orcid.org/0009-0009-9960-355X
+
+"Zeyuan":
+  - firstname: ["Ma", "M."]
+    url: https://scholar.google.com/citations?user=Jcy8wPgAAAAJ
+
+"Yue-jiao":
+  - firstname: ["Gong", "G."]
+    url: https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ
