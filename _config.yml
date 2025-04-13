@@ -271,8 +271,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Sijie]
-  first_name: [Ma, M.]
+  last_name: [Ma, M.]
+  first_name: [Sijie, S.]
 
   style: apa
   locale: en

@@ -1,54 +1,19 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-
-"Hongshu":
-  - firstname: ["Guo", "G."]
+"Guo":
+  - firstname: ["Hongshu"]
     url: https://orcid.org/0000-0001-8063-8984
 
-"Zechuan":
-  - firstname: ["Huang", "H."]
+"Huang":
+  - firstname: ["Zechuan"]
     url: https://orcid.org/0009-0000-3668-4481
 
-"Yuzhi":
-  - firstname: ["Hu", "H."]
+"Hu":
+  - firstname: [Yuzhi"]
     url: https://orcid.org/0009-0009-9960-355X
 
-"Zeyuan":
-  - firstname: ["Ma", "M."]
+"Ma":
+  - firstname: ["Zeyuan"]
     url: https://scholar.google.com/citations?user=Jcy8wPgAAAAJ
 
-"Yue-jiao":
-  - firstname: ["Gong", "G."]
+"Gong":
+  - firstname: ["Yue-Jiao"]
     url: https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ
