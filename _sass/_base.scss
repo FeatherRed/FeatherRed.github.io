@@ -16,10 +16,8 @@ div,
 li,
 span,
 strong{
-  font-family: math;
   color: var(--global-text-color);
 }
-
 
 hr {
   border-top: 1px solid var(--global-divider-color);
@@ -764,7 +762,7 @@ footer.sticky-bottom {
       }
 
       .author {
-        font-size: 9pt;
+        font-size: 14px;
 
         a {
           border-bottom: 1px dashed var(--global-theme-color);
