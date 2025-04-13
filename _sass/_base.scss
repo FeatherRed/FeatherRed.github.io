@@ -759,9 +759,13 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        color: #85200c;
+        font-style: italic;
       }
 
       .author {
+        font-size: 9pt;
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
