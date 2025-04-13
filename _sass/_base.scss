@@ -763,10 +763,12 @@ footer.sticky-bottom {
 
       .author {
         font-size: 14px;
-
+        color:#212121;
+        font-family: 'Merriweather', sans-serif;
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
-
+          // border-bottom: 1px dashed var(--global-theme-color);
+          color: #212121;
+          font-family: 'Merriweather', sans-serif;
           &:hover {
             border-bottom-style: solid;
             text-decoration: none;
@@ -774,7 +776,8 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
+          // border-bottom: 1px solid var(--global-theme-color);
+          font-family: 'Trebuchet MS', Arial, sans-serif;
           font-style: normal;
         }
 
