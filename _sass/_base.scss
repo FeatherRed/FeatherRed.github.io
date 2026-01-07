@@ -763,11 +763,11 @@ footer.sticky-bottom {
 
       .author {
         font-size: 14px;
-        color:#212121;
+        color:var(--global-text-color);
         font-family: 'Merriweather', sans-serif;
         a {
           // border-bottom: 1px dashed var(--global-theme-color);
-          color: #212121;
+          color:var(--global-text-color);
           font-family: 'Merriweather', sans-serif;
           &:hover {
             border-bottom-style: solid;
