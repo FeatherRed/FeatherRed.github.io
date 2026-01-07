@@ -9,21 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "news-build-my-own-website-star",
-          title: 'Build My Own Website! :star:',
-          description: "",
-          section: "News",},{id: "news-winter-vacation-has-started-get-ready-with-a-final-sprint-for-the-2025-gecco-conference-️",
-          title: 'Winter vacation has started. Get ready with a final sprint for the 2025...',
-          description: "",
-          section: "News",},{id: "news-our-paper-has-been-accepted-to-gecco-2025",
+  },{id: "news-our-paper-has-been-accepted-to-gecco-2025",
           title: '🎉 Our paper has been accepted to GECCO 2025! 🚀',
+          description: "",
+          section: "News",},{id: "news-metabox-v2-has-been-accepted-at-neurips-2025-as-a-poster",
+          title: '🎉 MetaBox-v2 has been accepted at NeurIPS 2025 as a poster!',
+          description: "",
+          section: "News",},{id: "news-i-am-grateful-to-have-been-awarded-the-national-scholarship-for-the-second-time",
+          title: 'I am grateful to have been awarded the National Scholarship for the second...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
