@@ -2,14 +2,28 @@
 ---
 
 @article{Gecco2025RLDEAFL,
-  abbr={Gecco},
+  abbr={Gecco2025},
   title={Reinforcement Learning-based Self-adaptive Differential Evolution through Automated Landscape Feature Learning},
   abstract={Recently, Meta-Black-Box-Optimization (MetaBBO) methods significantly enhance the performance of traditional black-box optimizers through meta-learning flexible and generalizable meta-level policies that excel in dynamic algorithm configuration (DAC) tasks within the low-level optimization, reducing the expertise required to adapt optimizers for novel optimization tasks. Though promising, existing MetaBBO methods heavily rely on human-crafted feature extraction approach to secure learning effectiveness. To address this issue, this paper introduces a novel MetaBBO method that supports automated feature learning during the meta-learning process, termed as RLDE-AFL, which integrates a learnable feature extraction module into a reinforcement learning-based DE method to learn both the feature encoding and meta-level policy. Specifically, we design an attention-based neural network with mantissa-exponent based embedding to transform the solution populations and corresponding objective values during the low-level optimization into expressive landscape features. We further incorporate a comprehensive algorithm configuration space including diverse DE operators into a reinforcement learning-aided DAC paradigm to unleash the behavior diversity and performance of the proposed RLDE-AFL. Extensive benchmark results show that co-training the proposed feature learning module and DAC policy contributes to the superior optimization performance of RLDE-AFL to several advanced DE methods and recent MetaBBO baselines over both synthetic and realistic BBO scenarios.},
   author={Guo, Hongshu and Ma, Sijie and Huang, Zechuan and Hu, Yuzhi and Ma, Zeyuan and Zhang, Xinglin and Gong*, Yue-Jiao},
   journal={arXiv preprint arXiv:2503.18061},
   year={2025},
   month={03},
-  code={https://github.com/GMC-DRL/RLDE-AFL},
+  code={https://github.com/MetaEvo/RLDE-AFL},
   arxiv={2503.18061},
+  selected={true},
+}
+
+@inproceedings{metabox-v2,
+  abbr={NeurIPS2025},
+  title={MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization},
+  author={Ma, Zeyuan and Gong*, Yue-Jiao and Guo, Hongshu and Qiu, Wenjie and Ma, Sijie and Lian, Hongqiao and Zhan, Jiajun and Chen, Kaixu and Wang, Chen and Huang, Zhiyang and Huang, Zechuan and Peng, Guojun and Cheng. Ran and Ma, Yining},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2025},
+  month={09},
+  abstract={Meta-Black-Box Optimization (MetaBBO) streamlines the automation of optimization algorithm design through meta-learning. It typically employs a bi-level structure: the meta-level policy undergoes meta-training to reduce the manual effort required in developing algorithms for low-level optimization tasks. The original MetaBox (2023) provided the first open-source framework for reinforcement learning-based single-objective MetaBBO. However, its relatively narrow scope no longer keep pace with the swift advancement in this field. In this paper, we introduce MetaBox-v2 (https://github.com/MetaEvo/MetaBox) as a milestone upgrade with four novel features: 1) a unified architecture supporting RL, evolutionary, and gradient-based approaches, by which we reproduce 23 up-to-date baselines; 2) efficient parallelization schemes, which reduce the training/testing time by 10−40x; 3) a comprehensive benchmark suite of 18 synthetic/realistic tasks (1900+ instances) spanning single-objective, multi-objective, multi-model, and multi-task optimization scenarios; 4) plentiful and extensible interfaces for custom analysis/visualization and integrating to external optimization tools/benchmarks. To show the utility of MetaBox-v2, we carry out a systematic case study that evaluates the built-in baselines in terms of the optimization performance, generalization ability and learning efficiency. Valuable insights are concluded from thorough and detailed analysis for practitioners and those new to the field.},
+  code={https://github.com/MetaEvo/MetaBox},
+  arxiv={https://arxiv.org/abs/2505.17745},
+  preview={MetaBoxv2.png},
   selected={true},
 }

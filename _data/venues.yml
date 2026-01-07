@@ -8,6 +8,10 @@
 "Vision":
   color: "#009f36"
 
-"Gecco":
+"Gecco2025":
   url: https://gecco-2025.sigevo.org/HomePage
   color: "#ff7f00"
+
+"NeurIPS2025":
+  url: https://openreview.net/forum?id=415T06x0vG
+  color: '#8c1b13'

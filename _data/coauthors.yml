@@ -1,19 +1,17 @@
 "guo":
   - firstname: ["Hongshu"]
-    url: https://orcid.org/0000-0001-8063-8984
-
-"huang":
-  - firstname: ["Zechuan"]
-    url: https://orcid.org/0009-0000-3668-4481
-
-"hu":
-  - firstname: ["Yuzhi"]
-    url: https://orcid.org/0009-0009-9960-355X
+    url: https://scholar.google.com/citations?user=98vGsIcAAAAJ&hl=en
 
 "ma":
   - firstname: ["Zeyuan"]
     url: https://scholar.google.com/citations?user=Jcy8wPgAAAAJ
+  - firstname: ["Sijie"]
+    url: https://scholar.google.com/citations?user=J1UIlOAAAAAJ&hl=en
 
 "gong":
   - firstname: ["Yue-Jiao"]
     url: https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ
+
+"cheng":
+  - firstname: ["Ran"]
+    url: https://scholar.google.com/citations?user=bjeIdlcAAAAJ&hl=en&oi=ao

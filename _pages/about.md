@@ -13,7 +13,7 @@ social: false # includes social icons at the bottom of the page
 
 I’m a junior undergraduate student majoring in Computer Science and Technology at South China University of Technology. With a strong interest in the intersection of machine learning and optimization, I’m currently focused on Meta Black-Box Optimization (MetaBBO).
 
-I feel incredibly lucky to be recommended by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ) and to work under the guidance of [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ) and Hongshu Guo. As a member of the [GMC-DRL](https://gmc-drl.github.io/) group, I’m diving deep into the theory and practice of meta-learning, striving to build systems that adapt, generalize, and optimize across tasks.
+I feel incredibly lucky to be recommended by [Prof. Yuejiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ) and to work under the guidance of [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ) and [Hongshu Guo](https://scholar.google.com/citations?user=98vGsIcAAAAJ&hl=en). As a member of the [MetaEvo](https://metaevo.github.io/) group, I’m diving deep into the theory and practice of meta-learning, striving to build systems that adapt, generalize, and optimize across tasks.
 
 <!-- My name is Sijie MA. I am now pursuing a Bachelor's Degree in CS at [SCUT](https://www.scut.edu.cn/new/).
 
